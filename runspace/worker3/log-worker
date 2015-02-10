@@ -1,0 +1,65 @@
+2015-02-05 16:29:11 [16500:16500][LOG_INFO][log_env:712] Client environment:zookeeper.version=zookeeper C client 3.4.6
+2015-02-05 16:29:11 [16500:16500][LOG_INFO][log_env:716] Client environment:host.name=h253020
+2015-02-05 16:29:11 [16500:16500][LOG_INFO][log_env:723] Client environment:os.name=Linux
+2015-02-05 16:29:11 [16500:16500][LOG_INFO][log_env:724] Client environment:os.arch=2.6.18-164.el5
+2015-02-05 16:29:11 [16500:16500][LOG_INFO][log_env:725] Client environment:os.version=#1 SMP Thu Sep 3 03:28:30 EDT 2009
+2015-02-05 16:29:11 [16500:16500][LOG_INFO][log_env:733] Client environment:user.name=jiazhiwei
+2015-02-05 16:29:11 [16500:16500][LOG_INFO][log_env:741] Client environment:user.home=/home/jiazhiwei
+2015-02-05 16:29:11 [16500:16500][LOG_INFO][log_env:753] Client environment:user.dir=/home/jiazhiwei/master-worker/runspace/worker3
+2015-02-05 16:29:11 [16500:16500][LOG_INFO][zookeeper_init:786] Initiating client connection, host=192.168.85.132:2181,192.168.85.132:2182,192.168.85.132:2183 sessionTimeout=10000 watcher=0x406cb8 sessionId=0 sessionPasswd=<null> context=0x7a5c4f8 flags=0
+2015-02-05 16:29:11 [16500:16501][LOG_INFO][check_events:1705] initiated connection to server [192.168.85.132:2181]
+2015-02-05 16:29:11 [16500:16501][LOG_INFO][check_events:1752] session establishment complete on server [192.168.85.132:2181], sessionId=0x14b4ec277a9000e, negotiated timeout=10000
+2015-02-05 16:29:11 [16500:16503][LOG_WARN][../lib/watcher.h:39] got a connected event
+2015-02-05 16:29:12 [16500:16500][LOG_INFO][worker.cpp:9] worker node:/assign/work-0000000008
+2015-02-05 16:32:08 [16500:16503][LOG_INFO][worker.cpp:52] add task:task-0000000006
+2015-02-05 16:32:08 [16500:16503][LOG_INFO][worker.cpp:90] run task:task-0000000006, task info:haha4
+2015-02-05 16:35:44 [16596:16596][LOG_INFO][log_env:712] Client environment:zookeeper.version=zookeeper C client 3.4.6
+2015-02-05 16:35:44 [16596:16596][LOG_INFO][log_env:716] Client environment:host.name=h253020
+2015-02-05 16:35:44 [16596:16596][LOG_INFO][log_env:723] Client environment:os.name=Linux
+2015-02-05 16:35:44 [16596:16596][LOG_INFO][log_env:724] Client environment:os.arch=2.6.18-164.el5
+2015-02-05 16:35:44 [16596:16596][LOG_INFO][log_env:725] Client environment:os.version=#1 SMP Thu Sep 3 03:28:30 EDT 2009
+2015-02-05 16:35:44 [16596:16596][LOG_INFO][log_env:733] Client environment:user.name=jiazhiwei
+2015-02-05 16:35:44 [16596:16596][LOG_INFO][log_env:741] Client environment:user.home=/home/jiazhiwei
+2015-02-05 16:35:44 [16596:16596][LOG_INFO][log_env:753] Client environment:user.dir=/home/jiazhiwei/master-worker/runspace/worker3
+2015-02-05 16:35:44 [16596:16596][LOG_INFO][zookeeper_init:786] Initiating client connection, host=192.168.85.132:2181,192.168.85.132:2182,192.168.85.132:2183 sessionTimeout=10000 watcher=0x406cb8 sessionId=0 sessionPasswd=<null> context=0x80b34f8 flags=0
+2015-02-05 16:35:44 [16596:16597][LOG_INFO][check_events:1705] initiated connection to server [192.168.85.132:2183]
+2015-02-05 16:35:44 [16596:16597][LOG_INFO][check_events:1752] session establishment complete on server [192.168.85.132:2183], sessionId=0x34b4ec255350007, negotiated timeout=10000
+2015-02-05 16:35:44 [16596:16599][LOG_WARN][../lib/watcher.h:39] got a connected event
+2015-02-05 16:35:45 [16596:16596][LOG_INFO][worker.cpp:9] worker node:/assign/work-0000000011
+2015-02-05 17:37:23 [17813:17813][LOG_INFO][log_env:712] Client environment:zookeeper.version=zookeeper C client 3.4.6
+2015-02-05 17:37:23 [17813:17813][LOG_INFO][log_env:716] Client environment:host.name=h253020
+2015-02-05 17:37:23 [17813:17813][LOG_INFO][log_env:723] Client environment:os.name=Linux
+2015-02-05 17:37:23 [17813:17813][LOG_INFO][log_env:724] Client environment:os.arch=2.6.18-164.el5
+2015-02-05 17:37:23 [17813:17813][LOG_INFO][log_env:725] Client environment:os.version=#1 SMP Thu Sep 3 03:28:30 EDT 2009
+2015-02-05 17:37:23 [17813:17813][LOG_INFO][log_env:733] Client environment:user.name=jiazhiwei
+2015-02-05 17:37:23 [17813:17813][LOG_INFO][log_env:741] Client environment:user.home=/home/jiazhiwei
+2015-02-05 17:37:23 [17813:17813][LOG_INFO][log_env:753] Client environment:user.dir=/home/jiazhiwei/master-worker/runspace/worker3
+2015-02-05 17:37:23 [17813:17813][LOG_INFO][zookeeper_init:786] Initiating client connection, host=192.168.85.132:2181,192.168.85.132:2182,192.168.85.132:2183 sessionTimeout=10000 watcher=0x406cb8 sessionId=0 sessionPasswd=<null> context=0xcd1d4f8 flags=0
+2015-02-05 17:37:23 [17813:17814][LOG_INFO][check_events:1705] initiated connection to server [192.168.85.132:2181]
+2015-02-05 17:37:23 [17813:17814][LOG_INFO][check_events:1752] session establishment complete on server [192.168.85.132:2181], sessionId=0x14b4ec277a90021, negotiated timeout=10000
+2015-02-05 17:37:23 [17813:17816][LOG_WARN][../lib/watcher.h:39] got a connected event
+2015-02-05 17:37:24 [17813:17813][LOG_INFO][worker.cpp:9] worker node:/assign/work-0000000003
+2015-02-05 17:37:46 [17813:17816][LOG_INFO][worker.cpp:54] add task:task-0000000016
+2015-02-05 17:37:46 [17813:17816][LOG_INFO][worker.cpp:84] run task:task-0000000016, task info:world2
+2015-02-05 17:37:49 [17813:17816][LOG_INFO][worker.cpp:54] add task:task-0000000017
+2015-02-05 17:37:49 [17813:17816][LOG_INFO][worker.cpp:84] run task:task-0000000017, task info:world2
+2015-02-05 17:37:49 [17813:17816][LOG_INFO][worker.cpp:54] add task:task-0000000018
+2015-02-05 17:37:49 [17813:17816][LOG_INFO][worker.cpp:84] run task:task-0000000018, task info:world2
+2015-02-05 17:37:49 [17813:17816][LOG_INFO][worker.cpp:54] add task:task-0000000019
+2015-02-05 17:37:49 [17813:17816][LOG_INFO][worker.cpp:84] run task:task-0000000019, task info:world2
+2015-02-05 17:37:50 [17813:17816][LOG_INFO][worker.cpp:54] add task:task-0000000020
+2015-02-05 17:37:50 [17813:17816][LOG_INFO][worker.cpp:84] run task:task-0000000020, task info:world2
+2015-02-05 17:37:50 [17813:17816][LOG_INFO][worker.cpp:54] add task:task-0000000021
+2015-02-05 17:37:50 [17813:17816][LOG_INFO][worker.cpp:84] run task:task-0000000021, task info:world2
+2015-02-05 17:38:07 [17813:17816][LOG_INFO][worker.cpp:54] add task:task-0000000024
+2015-02-05 17:38:07 [17813:17816][LOG_INFO][worker.cpp:84] run task:task-0000000024, task info:world2
+2015-02-05 17:38:09 [17813:17816][LOG_INFO][worker.cpp:54] add task:task-0000000027
+2015-02-05 17:38:09 [17813:17816][LOG_INFO][worker.cpp:84] run task:task-0000000027, task info:world1
+2015-02-05 17:38:10 [17813:17816][LOG_INFO][worker.cpp:54] add task:task-0000000030
+2015-02-05 17:38:10 [17813:17816][LOG_INFO][worker.cpp:84] run task:task-0000000030, task info:world1
+2015-02-05 17:38:10 [17813:17816][LOG_INFO][worker.cpp:54] add task:task-0000000033
+2015-02-05 17:38:10 [17813:17816][LOG_INFO][worker.cpp:84] run task:task-0000000033, task info:world1
+2015-02-05 17:38:11 [17813:17816][LOG_INFO][worker.cpp:54] add task:task-0000000036
+2015-02-05 17:38:11 [17813:17816][LOG_INFO][worker.cpp:84] run task:task-0000000036, task info:world1
+2015-02-05 17:38:12 [17813:17816][LOG_INFO][worker.cpp:54] add task:task-0000000039
+2015-02-05 17:38:12 [17813:17816][LOG_INFO][worker.cpp:84] run task:task-0000000039, task info:world1
